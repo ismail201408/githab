@@ -1,0 +1,125 @@
+body{
+    background-color: rgb(207, 202, 202);
+}
+i{
+    font-size: 100px;
+    margin-left: 150px;
+    margin-top: 100px;
+}
+.a{
+    margin-left: 170px;
+    font-size: 25px;
+    margin-top: -10px;
+    color: orangered;
+}
+.b{
+    margin-left: 170px;
+    font-size: 25px;
+    margin-top: -10px;
+}
+.c{
+    margin-left: 170px;
+    font-size: 25px;
+    margin-top: -10px;
+    background-color: orangered;
+    color: white;
+    width: 150px;
+}
+.premiun{
+    background-color: red;
+    color: white;
+    font-size: 30px;
+    width: 202px;
+    height: 50px;
+    padding-top: 10px;
+    padding-left: 200px;
+    margin-left: 390px;
+    margin-top: -300px;
+    padding-right: 100px;
+}
+.grey{
+    width: 202px;
+    height: 50px; 
+    background-color: rgb(171, 168, 168); 
+    padding-top: 10px;
+    padding-left: 200px;
+    margin-left: 390px;
+    font-size: 20px;
+    padding-right: 100px;
+}
+.white{
+    background-color: white;
+    color: black;
+    width: 202px;
+    padding-top: 10px;
+    padding-left: 200px;
+    margin-left: 390px;
+    font-size: 20px;
+    padding-right: 100px;
+}
+.but{
+    width: 202px;
+    height: 50px; 
+    background-color: rgb(171, 168, 168); 
+    padding-top: 10px;
+    padding-left: 200px;
+    margin-left: 390px;
+    font-size: 20px;
+    padding-right: 100px;
+    margin-top: -19px;
+}
+button{
+    background-color: rgb(237, 11, 11);
+    color: white;
+}
+
+
+
+
+.pro{
+    background-color: green;
+    color: white;
+    font-size: 30px;
+    width: 202px;
+    height: 50px;
+    padding-top: 10px;
+    padding-left: 200px;
+    margin-left: 390px;
+    margin-top: -315px;
+    padding-right: 100px;
+}
+.gre{
+    width: 202px;
+    height: 50px; 
+    background-color: rgb(171, 168, 168); 
+    padding-top: 20px;
+    padding-left: 200px;
+    margin-left: 390px;
+    font-size: 20px;
+    padding-right: 100px;
+}
+.whit{
+    background-color: white;
+    color: black;
+    width: 202px;
+    padding-top: 15px;
+    padding-left: 200px;
+    margin-left: 390px;
+    font-size: 20px;
+    padding-right: 100px;
+}
+.bu{
+    width: 202px;
+    height: 50px; 
+    background-color: rgb(171, 168, 168); 
+    padding-top: 15px;
+    padding-left: 200px;
+    margin-left: 390px;
+    font-size: 20px;
+    padding-right: 100px;
+    margin-top: -29px;
+}
+.s{
+    background-color: green;
+    color: white; 
+}
